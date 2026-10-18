@@ -1,9 +1,9 @@
 # add sample inputs
 from business_rules import (
-    calculate_total,
-    requires_review,
-    get_approval_tier,
     apply_discount,
+    calculate_total,
+    get_approval_tier,
+    requires_review,
 )
 
 price, qty = 450.00, 3
